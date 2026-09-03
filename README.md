@@ -464,7 +464,7 @@ The program will display the predicted accident severity.
 From the `src` folder:
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 The Streamlit application will open in your browser.
