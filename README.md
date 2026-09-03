@@ -96,9 +96,12 @@ U2U-internship-project/
 ├── reports/
 │   ├── README.md
 │   ├── figures/
-│   │   ├── accident_severity_distribution.png
-│   │   ├── weather_vs_severity.png
-│   │   └── confusion_matrix.png
+│   │   ├── accident_severity_distribution.png (<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/05b4c6d3-275e-47bd-a5ac-aa19d36ee40a" />)
+
+│   │   ├── weather_vs_severity.png (<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/f2648717-adfd-4818-8737-32fe5eabab54" />
+)
+│   │   └── confusion_matrix. (<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/0fbe8ef0-b97a-41e0-8c39-a9e7e9409487" />
+)
 │   │
 │   └── final_report.pdf
 │
