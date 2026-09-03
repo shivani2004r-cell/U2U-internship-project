@@ -581,6 +581,9 @@ The project can be improved by adding:
 **Repository:** GitHub
 
 ---
+## Contributors
+
+- **Shivani Rajora** — Developer & Project Lead
 
 # 📜 Conclusion
 
