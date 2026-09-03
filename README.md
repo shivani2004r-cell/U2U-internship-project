@@ -10,7 +10,7 @@ The system uses factors such as **weather conditions, road surface conditions, l
 ## 🔗 Project Links
 
 - **GitHub Repository:** [U2U-internship-project]((https://github.com/shivani2004r-cell/U2U-internship-project))
-- **Source Code:** [View Source Code](YOUR_GITHUB_URL/tree/main/src)
+- **Source Code:** [View Source Code](https://github.com/shivani2004r-cell/U2U-internship-project/tree/main/src)
 - **Dataset:** [View Dataset](https://www.kaggle.com/datasets/avikumart/road-traffic-severity-classification?utm_source=chatgpt.com)
 
 ## 🎯 Objectives
