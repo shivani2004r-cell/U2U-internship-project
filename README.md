@@ -581,10 +581,11 @@ The project can be improved by adding:
 **Repository:** GitHub
 
 ---
-## Contributors
+## Contributor
 
 - **Shivani Rajora** — Developer & Project Lead
 
+--
 # 📜 Conclusion
 
 The **Predictive Analytics for Road Accident Prevention** project demonstrates how historical road accident data can be combined with Data Science and Machine Learning to analyze accident patterns and predict accident severity.
